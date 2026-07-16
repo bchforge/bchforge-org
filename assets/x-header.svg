@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">BCH Forge X header</title>
+  <desc id="desc">Header image for BCH Forge social profiles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1500" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#081114"/><stop offset=".52" stop-color="#0d1a1f"/><stop offset="1" stop-color="#05090b"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1070 60) rotate(139) scale(680 420)"><stop stop-color="#0ac18e" stop-opacity=".28"/><stop offset="1" stop-color="#0ac18e" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1500" height="500" fill="url(#bg)"/>
+  <rect width="1500" height="500" fill="url(#glow)"/>
+  <path d="M1120 0h380v500H965l155-500Z" fill="#0ac18e" opacity=".08"/>
+  <g transform="translate(120 120) scale(.875)">
+    <rect width="128" height="128" rx="30" fill="#081114"/>
+    <path d="M64 14 104 37v54l-40 23-40-23V37l40-23Z" fill="none" stroke="#829592" stroke-width="4" stroke-linejoin="round"/>
+    <g fill="none" stroke="#edf4f2" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+      <path d="M45 38v58M45 38h45M45 63h35"/>
+    </g>
+    <g fill="#081114" stroke="#edf4f2" stroke-width="3">
+      <circle cx="45" cy="38" r="6" fill="#18d8a3"/>
+      <circle cx="90" cy="38" r="6"/>
+      <circle cx="45" cy="63" r="6"/>
+      <circle cx="80" cy="63" r="6" fill="#18d8a3"/>
+      <circle cx="45" cy="96" r="6"/>
+    </g>
+  </g>
+  <text x="270" y="198" fill="#f3f8f7" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="72" font-weight="850" letter-spacing="-4">BCH Forge</text>
+  <text x="274" y="260" fill="#18d8a3" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="800" letter-spacing="4">TOOLS FOR THE BITCOIN CASH ECOSYSTEM</text>
+  <text x="274" y="319" fill="#a6b6b5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="32" font-weight="600">Open-source tools for Bitcoin Cash self-custody and infrastructure.</text>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "name": "bchforge-org",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Static landing page for bchforge.org.",
+  "scripts": {
+    "dev": "./scripts/dev.sh",
+    "start": "./scripts/dev.sh",
+    "stop": "./scripts/stop.sh",
+    "status": "./scripts/status.sh"
+  }
+}
