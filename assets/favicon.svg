@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">BCH Forge</title>
+  <desc id="desc">BCH Forge favicon: node network F inside a hexagonal outline.</desc>
+  <rect width="128" height="128" rx="30" fill="#081114"/>
+  <path d="M64 14 104 37v54l-40 23-40-23V37l40-23Z" fill="none" stroke="#829592" stroke-width="4" stroke-linejoin="round"/>
+  <g fill="none" stroke="#edf4f2" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M45 38v58M45 38h45M45 63h35"/>
+  </g>
+  <g fill="#081114" stroke="#edf4f2" stroke-width="3">
+    <circle cx="45" cy="38" r="6" fill="#18d8a3"/>
+    <circle cx="90" cy="38" r="6"/>
+    <circle cx="45" cy="63" r="6"/>
+    <circle cx="80" cy="63" r="6" fill="#18d8a3"/>
+    <circle cx="45" cy="96" r="6"/>
+  </g>
+</svg>

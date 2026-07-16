@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 128" role="img" aria-labelledby="title desc">
+  <title id="title">BCH Forge</title>
+  <desc id="desc">BCH Forge wordmark with hexagonal node-network forge symbol.</desc>
+  <defs>
+    <linearGradient id="logo-bg" x1="22" y1="12" x2="108" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#123238"/>
+      <stop offset="1" stop-color="#071014"/>
+    </linearGradient>
+    <linearGradient id="logo-accent" x1="31" y1="33" x2="95" y2="103" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18d8a3"/>
+      <stop offset="1" stop-color="#0ac18e"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="#081114"/>
+  <path d="M64 14 104 37v54l-40 23-40-23V37l40-23Z" fill="none" stroke="#829592" stroke-width="4" stroke-linejoin="round"/>
+  <g fill="none" stroke="#edf4f2" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M45 38v58M45 38h45M45 63h35"/>
+  </g>
+  <g fill="#081114" stroke="#edf4f2" stroke-width="3">
+    <circle cx="45" cy="38" r="6" fill="#18d8a3"/>
+    <circle cx="90" cy="38" r="6"/>
+    <circle cx="45" cy="63" r="6"/>
+    <circle cx="80" cy="63" r="6" fill="#18d8a3"/>
+    <circle cx="45" cy="96" r="6"/>
+  </g>
+  <text x="154" y="67" fill="#f3f8f7" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="800" letter-spacing="-1.8">BCH Forge</text>
+  <text x="156" y="94" fill="#a6b6b5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">BITCOIN CASH TOOLS</text>
+</svg>
